@@ -5,7 +5,7 @@ evaluacion
 m7_s3
 
 Para clonar:
-
+https://github.com/ThDelgado/app_db.git
 
 
 Thelma Delgado
